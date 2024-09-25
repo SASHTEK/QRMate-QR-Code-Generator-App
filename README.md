@@ -37,7 +37,7 @@ The **QR Code Generator** is a simple and efficient desktop application develope
 
 1. **Clone the Repository**:
    ```bash
-   https://github.com/SASHTEK/QRMate-QR-Code-Generator.git
+   https://github.com/SASHTEK/QRMate-QR-Code-Generator-App.git
 
 2. **Open the Solution**:
    - Open the QR Master.sln file in Visual Studio.
